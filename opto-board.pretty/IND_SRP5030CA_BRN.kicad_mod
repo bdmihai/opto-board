@@ -1,0 +1,233 @@
+(footprint "IND_SRP5030CA_BRN"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(tags "SRP5030CA-R60M ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a3336683-3f73-4adc-ae89-30c434845d0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND_SRP5030CA_BRN"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5f2ca27a-55b8-41cc-830d-55665dd096ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "018f3b75-eff2-4cf9-835f-3c0c5ca918c6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a86c0812-1c66-40bc-8af9-e44d692752b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.9718 -2.8829)
+		(end -2.9718 2.8829)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e87855a9-f133-48ee-9129-9278fc273b58")
+	)
+	(fp_line
+		(start -2.9718 2.8829)
+		(end 2.9718 2.8829)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f28f73f-e588-4897-9bdc-c7f9e36c3238")
+	)
+	(fp_line
+		(start 2.9718 -2.8829)
+		(end -2.9718 -2.8829)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4af70681-6c10-4598-a1d3-6bd397300707")
+	)
+	(fp_line
+		(start 2.9718 2.8829)
+		(end 2.9718 -2.8829)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6eecf21e-6eec-48d7-807c-580a1d3edf3e")
+	)
+	(fp_line
+		(start -3.0988 -3.0099)
+		(end 3.0988 -3.0099)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "86d50cb9-4e6e-405b-992f-d6efdb0935c1")
+	)
+	(fp_line
+		(start -3.0988 3)
+		(end -3.0988 -3)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2182e3dd-bf6b-42e6-ba9b-5a749e14cda2")
+	)
+	(fp_line
+		(start 3.0988 -3)
+		(end 3.0988 3)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b3e8437e-0caf-464b-8e29-8244cb45d058")
+	)
+	(fp_line
+		(start 3.0988 3.0099)
+		(end -3.0988 3.0099)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "83002eb3-f826-4a05-8acf-5e133d212fde")
+	)
+	(fp_line
+		(start -2.8448 -2.7559)
+		(end -2.8448 2.7559)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d67ac70-8e92-4112-afd4-5703e4d2aab0")
+	)
+	(fp_line
+		(start -2.8448 2.7559)
+		(end 2.8448 2.7559)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9a436cf0-9505-4115-988c-ade72a2fb59a")
+	)
+	(fp_line
+		(start 2.8448 -2.7559)
+		(end -2.8448 -2.7559)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ccf8ab17-8d3b-40b0-bcae-b799c5996f12")
+	)
+	(fp_line
+		(start 2.8448 2.7559)
+		(end 2.8448 -2.7559)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "31d35d04-238f-42e2-8ff0-49599dba6fea")
+	)
+	(fp_arc
+		(start 0.3048 -2.7559)
+		(mid 0 -2.4511)
+		(end -0.3048 -2.7559)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a650a37c-21e5-41d8-8f82-4a9aee610d38")
+	)
+	(fp_circle
+		(center -0.9525 0)
+		(end -0.8763 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b45a6147-67bb-4adb-bd9e-9f21761047fc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "50393134-1dbc-4943-bacf-f90cf0e747d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.6002 0)
+		(size 1.2954 4.5974)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6ad3cbd9-1f97-4b74-8626-3e33c78e6112")
+	)
+	(pad "2" smd rect
+		(at 1.6002 0)
+		(size 1.2954 4.5974)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "558a9212-139c-481a-a660-32bf1df5aa78")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/IND_SRP5030CA_BRN.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
